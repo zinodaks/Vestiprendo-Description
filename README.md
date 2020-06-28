@@ -1,11 +1,12 @@
 # Vestiprendo-Description
 *Vestigo* is a latin word that means **track**. *Deprendo* is a latin word that means **detect**. Hence the name , ***Vestiprendo***. 
 
-Vestiprendo is a fleet tracking IoT system that connects companies and individuals straight to their vehicles. It allows users to see real-time tracking data from their vehicles such as location , speed , & fuel level. 
+Vestiprendo is an IoT system that connects companies and individuals straight to their vehicles allowing them to *track* and *detect* real-time changes that occur on those vehicles. 
 
+It allows users to see real-time tracking data from their vehicles such as location , speed , & fuel level. 
 The system will inform users of any violation of a preset speed limit when exceeded. The user will also receive notifications when the fuel level decreases in an abnormal level that could indicate fuel theft. 
-
 Several other sensors are installed on the vehicles that serve to inform the users about any alcohol or smoke violations that occur inside the vehicle's cabin. With an objective of stopping drivers from driving under the influence , or smoking certain drugs in the vehicle , the system will notify the user when the driver is drinking alcohol or smoking. 
+
 
 ## How is it built ?
 - React for the website
